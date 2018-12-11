@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("Kocurek") //trzeba prawidłowo opisywać testy - co one zawierają
+@DisplayName("Kocurek") //trzeba prawidłowo opisywać testy - co one zawierają (tutaj w nazwa taka w celach szkoleniowych)
 class KalkulatorAppTest {
 
     // nazywać klasy tak, żeby wiedzieć co jest sprawdzane (jest to istotne --> pytanie: co działa?)
