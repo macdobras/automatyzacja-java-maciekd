@@ -1,17 +1,17 @@
-package kalkulator;
+package calculator;
 
-public class KalkulatorApp {
+public class CalculatorApp {
 
-    public int add(int a, int b){
+    public int add(int a, int b) {
         return a + b;
     }
 
     // przeciążenie metody add() --> te same nazwy, ale inne parametry przez co kompilator potrafi rozróżnić
-    public double add(double x, double y){
+    public double add(double x, double y) {
         return x + y;
     }
 
-    public double divide (double a, double b){
+    public double divide(double a, double b) {
         return a / b;
     }
 }
