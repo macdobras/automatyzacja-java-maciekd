@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>come.codesprinters</groupId>
+    <artifactId>autojava</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <dependencies>
+
+        <!--zalżność dla możliwości dodania/użycia testów unit'owych-->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.3.2</version>
+           <!-- <version>5.0.M</version> - wersja junit z wersją JAVA 8 (sprawdzać/potaiwerdzać w sieci)-->
+            <scope>test</scope>    <!-- junity wykonujemy tylko w ramach Lifecycle test-->
+        </dependency>
+
+    </dependencies>
+
+
+    <build>
+        <plugins>
+
+            <!--plugin dla wersji JAVA wykorzysztywanej w projekcie-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
+                <configuration>
+                    <release>11</release>
+                </configuration>
+            </plugin>
+
+            <!--plugin żeby odpalać testy Maven-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.22.0</version>
+                <configuration>
+                    <forkCount>0</forkCount>
+                </configuration>
+            </plugin>
+
+        </plugins>
+    </build>
+
+
+</project>
