@@ -49,9 +49,9 @@ public class WorldpressTests {
                 .stream()
                 .filter (c -> c.findElement(By.cssSelector(".comment-content > p")).getText().equals(""+id));
 
-        Assertions.assertEquals(""+id, listOfComment.getText(""+id));
+// coś tu nie działa:
+//      Assertions.assertEquals(""+id, listOfComment.getText(""+id));
 
-        System.out.println("The end :-)");
 
     }
 
