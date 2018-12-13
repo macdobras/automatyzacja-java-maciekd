@@ -19,27 +19,26 @@ public class WorldpressTests extends BaseTest {
         // - open wordpress main page
         // - open first note
         // - add comment to the note
-        // - check that comment is addes
+        // - check that comment is added
 
         // Dodatkowe komentarze moje:
         // - po opublikowaniu komentarza strona się odświeża więc to jest inna strona (inne dane są)
         // wiec powinien być inny nowy obiekt bo jeszcze raz trzeba wyszukać elementy  --> stąd latestNoteWithComment !!
 
-        String comment = generateRandomeText();
-        String author = generateRandomeText();
-        //można np. String author = 'Maciek' + generateRandomeText();
+        String comment = "MIK the Great: " + generateRandomeText();
+        String author = "MIK the Great: " + generateRandomeText();
         String email = generateRandomeEmail();
 
         WpMainPage mainPage = new WpMainPage(driver);
         WpNotePage latestNote = mainPage.openLatestNote();
         WpNotePage latestNoteWithComment = latestNote.addComment(comment, author, email);
 
-    Assertions.assertTrue(latestNoteWithComment.commentExists(comment, author));
+        Assertions.assertTrue(latestNoteWithComment.commentExists(comment, author));
 
     }
 
     private String generateRandomeEmail() {
-        return generateRandomeText() + "@testdomain.com";
+        return generateRandomeText() + "@testMIKdomainTheGreat.com";
     }
 
     private String generateRandomeText() {

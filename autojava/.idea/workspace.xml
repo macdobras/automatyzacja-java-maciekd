@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c931b1-2d44-4727-ba53-0c4336cf1397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/WorldpressTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="411">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,15 +29,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/BaseTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,33 +44,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+            <state relative-caret-position="748">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1456#1457#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#1293#1294#0" expanded="true" />
-                <element signature="e#1333#1334#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -103,17 +78,17 @@
         <option value="$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/basic_RafMark/SeleniumTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/basic/WorldpressTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/POPWorldpress/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/POPWorldpress/WorldpressTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/pageobjects/GoogleTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java" />
       </list>
     </option>
   </component>
@@ -168,27 +143,6 @@
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
               <item name="autojava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autojava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autojava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autojava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,14 +151,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="autojava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
@@ -269,7 +215,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544699807193" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544713507744" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects" />
   </component>
   <component name="RecentsManager">
@@ -289,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GoogleTests.FindCodeSprinters">
+  <component name="RunManager" selected="JUnit.WorldpressTests.verifyAddNewCommentToFirstNote (1)">
     <configuration name="GoogleTests.FindCodeSprinters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autojava" />
       <extension name="coverage">
@@ -306,18 +252,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTests.verifyAuthorOfBlogNoteAboutTransformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WorldpressTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="autojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.basic_RafMark.*" />
+          <option name="PATTERN" value="selenium.worldpresspagesobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium.basic_RafMark" />
-      <option name="MAIN_CLASS_NAME" value="selenium.basic_RafMark.SeleniumTests" />
-      <option name="METHOD_NAME" value="verifyAuthorOfBlogNoteAboutTransformation" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="selenium.worldpresspagesobjects" />
+      <option name="MAIN_CLASS_NAME" value="selenium.worldpresspagesobjects.WorldpressTests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,6 +276,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium.basic" />
       <option name="MAIN_CLASS_NAME" value="selenium.basic.WorldpressTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autojava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selenium.worldpresspagesobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selenium.worldpresspagesobjects" />
+      <option name="MAIN_CLASS_NAME" value="selenium.worldpresspagesobjects.WorldpressTests" />
+      <option name="METHOD_NAME" value="verifyAddNewCommentToFirstNote" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,29 +312,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorldpressTests.verifyAddNewCommentToNote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="autojava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selenium.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selenium.basic" />
-      <option name="MAIN_CLASS_NAME" value="selenium.basic.WorldpressTests" />
-      <option name="METHOD_NAME" value="verifyAddNewCommentToNote" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WorldpressTests.verifyAddNewCommentToFirstNote (1)" />
+        <item itemvalue="JUnit.WorldpressTests (1)" />
         <item itemvalue="JUnit.GoogleTests.FindCodeSprinters" />
         <item itemvalue="JUnit.WorldpressTests.verifyAddNewCommentToFirstNote" />
         <item itemvalue="JUnit.WorldpressTests" />
-        <item itemvalue="JUnit.WorldpressTests.verifyAddNewCommentToNote" />
-        <item itemvalue="JUnit.SeleniumTests.verifyAuthorOfBlogNoteAboutTransformation" />
       </list>
     </recent_temporary>
   </component>
@@ -407,42 +351,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WorldpressTests_verifyAddNewCommentToNote - 2018.12.12 at 13h 35m 50s.xml">
-      <configuration name="WorldpressTests.verifyAddNewCommentToNote" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 14h 53m 35s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests_verifyAddNewCommentToNote - 2018.12.12 at 13h 47m 29s.xml">
-      <configuration name="WorldpressTests.verifyAddNewCommentToNote" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 14h 56m 38s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests_verifyAddNewCommentToNote - 2018.12.12 at 13h 49m 07s.xml">
-      <configuration name="WorldpressTests.verifyAddNewCommentToNote" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 14h 57m 23s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests - 2018.12.12 at 13h 50m 31s.xml">
-      <configuration name="WorldpressTests" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 14h 58m 55s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests - 2018.12.12 at 14h 13m 59s.xml">
-      <configuration name="WorldpressTests" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_(1) - 2018.12.13 at 15h 00m 44s.xml">
+      <configuration name="WorldpressTests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests - 2018.12.12 at 14h 19m 04s.xml">
-      <configuration name="WorldpressTests" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 15h 11m 06s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldpressTests - 2018.12.12 at 14h 21m 22s.xml">
-      <configuration name="WorldpressTests" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 15h 12m 57s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTests_FindCodeSprinters - 2018.12.12 at 17h 27m 16s.xml">
-      <configuration name="GoogleTests.FindCodeSprinters" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_(1) - 2018.12.13 at 15h 13m 53s.xml">
+      <configuration name="WorldpressTests (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTests_FindCodeSprinters - 2018.12.12 at 17h 33m 54s.xml">
-      <configuration name="GoogleTests.FindCodeSprinters" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 15h 14m 53s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoogleTests_FindCodeSprinters - 2018.12.12 at 17h 56m 28s.xml">
-      <configuration name="GoogleTests.FindCodeSprinters" configurationId="JUnit" />
+    <history-entry file="WorldpressTests_verifyAddNewCommentToFirstNote_(1) - 2018.12.13 at 15h 28m 32s.xml">
+      <configuration name="WorldpressTests.verifyAddNewCommentToFirstNote (1)" configurationId="JUnit" />
     </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22844176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,17 +404,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.2630719" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.17320262" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
@@ -474,6 +427,10 @@
     <MESSAGE value="test GIT commit z poziomu IntelliJ" />
     <MESSAGE value="pierwszy test Selenium - SeleniumTests" />
     <option name="LAST_COMMIT_MESSAGE" value="pierwszy test Selenium - SeleniumTests" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java">
@@ -515,16 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#2705#2706#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1949">
@@ -536,34 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic_RafMark/SeleniumTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="85" column="8" lean-forward="true" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#canFindCodeSprintersOnGoogle#0;class#SeleniumTests#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,10 +508,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#2657#2658#0" expanded="true" />
+            <element signature="e#2705#2706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="286" selection-start-line="286" selection-end-line="286" />
+          <folding>
+            <element signature="e#11068#11069#0" expanded="true" />
+            <element signature="e#11111#11112#0" expanded="true" />
+            <element signature="e#13568#13569#0" expanded="true" />
+            <element signature="e#13620#13621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/RegularImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="573" selection-start-line="573" selection-end-line="573" />
+          <folding>
+            <element signature="e#20891#20892#0" expanded="true" />
+            <element signature="e#20954#20955#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/CollectPreconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/SeleniumTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="44" column="55" lean-forward="true" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/pageobjects/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic_RafMark/SeleniumTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="94" column="76" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#canFindCodeSprintersOnGoogle#0;class#SeleniumTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/basic/WorldpressTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="29" column="46" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="-187">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -601,29 +612,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpMainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="411">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/WorldpressTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        <state relative-caret-position="748">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1483#1484#0" expanded="true" />
-            <element signature="e#1293#1294#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/worldpresspagesobjects/pages/WpNotePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
