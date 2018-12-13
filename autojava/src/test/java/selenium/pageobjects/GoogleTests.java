@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-public class GoogleTests extends BaseTest{
+public class GoogleTests extends BaseTest {
 
     @Test
     public void FindCodeSprinters(){
@@ -21,8 +21,10 @@ public class GoogleTests extends BaseTest{
 
 
         //assert Code Sprinters Page is found
-        Assertions.assertTrue();
+        //Assertions.assertTrue();
 
+// NIESKONCZONE !!! na github jest rozwiązanie od prowadzącego szkolenie
+// https://github.com/rafal-codesprinters/auto-java-dec-2018/tree/master/autojava/src/test/java/selenium/pagebjects
 
     }
 }
